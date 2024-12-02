@@ -1,0 +1,135 @@
+Evaluating fold 1 for accuracy mode: low_acc
+Accuracy: 0.5987878787878788
+Confusion Matrix:
+[[412 167]
+ [164  82]]
+Filtered Accuracy (>=3 utterances): 0.5948136142625607
+Filtered Confusion Matrix (>=3 utterances):
+[[307 132]
+ [118  60]]
+Evaluating fold 2 for accuracy mode: low_acc
+Accuracy: 0.6347087378640777
+Confusion Matrix:
+[[437 153]
+ [148  86]]
+Filtered Accuracy (>=3 utterances): 0.6434359805510534
+Filtered Confusion Matrix (>=3 utterances):
+[[334 108]
+ [112  63]]
+Evaluating fold 3 for accuracy mode: low_acc
+Accuracy: 0.6201456310679612
+Confusion Matrix:
+[[433 167]
+ [146  78]]
+Filtered Accuracy (>=3 utterances): 0.6132686084142395
+Filtered Confusion Matrix (>=3 utterances):
+[[324 129]
+ [110  55]]
+Evaluating fold 4 for accuracy mode: low_acc
+Accuracy: 0.6472727272727272
+Confusion Matrix:
+[[478 122]
+ [169  56]]
+Filtered Accuracy (>=3 utterances): 0.6628849270664505
+Filtered Confusion Matrix (>=3 utterances):
+[[370  81]
+ [127  39]]
+Evaluating fold 5 for accuracy mode: low_acc
+Accuracy: 0.6945454545454546
+Confusion Matrix:
+[[550  48]
+ [204  23]]
+Filtered Accuracy (>=3 utterances): 0.7082658022690438
+Filtered Confusion Matrix (>=3 utterances):
+[[420  36]
+ [144  17]]
+Evaluating fold 1 for accuracy mode: mid_acc
+Accuracy: 0.5610062893081761
+Confusion Matrix:
+[[347 241]
+ [108  99]]
+Filtered Accuracy (>=3 utterances): 0.5604982206405694
+Filtered Confusion Matrix (>=3 utterances):
+[[237 183]
+ [ 64  78]]
+Evaluating fold 2 for accuracy mode: mid_acc
+Accuracy: 0.5270440251572327
+Confusion Matrix:
+[[334 232]
+ [144  85]]
+Filtered Accuracy (>=3 utterances): 0.5231316725978647
+Filtered Confusion Matrix (>=3 utterances):
+[[236 169]
+ [ 99  58]]
+Evaluating fold 3 for accuracy mode: mid_acc
+Accuracy: 0.5081761006289308
+Confusion Matrix:
+[[284 277]
+ [114 120]]
+Filtered Accuracy (>=3 utterances): 0.49023090586145646
+Filtered Confusion Matrix (>=3 utterances):
+[[194 213]
+ [ 74  82]]
+Evaluating fold 4 for accuracy mode: mid_acc
+Accuracy: 0.5894206549118388
+Confusion Matrix:
+[[374 199]
+ [127  94]]
+Filtered Accuracy (>=3 utterances): 0.5985790408525755
+Filtered Confusion Matrix (>=3 utterances):
+[[273 142]
+ [ 84  64]]
+Evaluating fold 5 for accuracy mode: mid_acc
+Accuracy: 0.660377358490566
+Confusion Matrix:
+[[450 122]
+ [148  75]]
+Filtered Accuracy (>=3 utterances): 0.6672597864768683
+Filtered Confusion Matrix (>=3 utterances):
+[[319  82]
+ [105  56]]
+Evaluating fold 1 for accuracy mode: high_acc
+Accuracy: 0.6624293785310734
+Confusion Matrix:
+[[447  67]
+ [172  22]]
+Filtered Accuracy (>=3 utterances): 0.6535626535626535
+Filtered Confusion Matrix (>=3 utterances):
+[[259  34]
+ [107   7]]
+Evaluating fold 2 for accuracy mode: high_acc
+Accuracy: 0.7023977433004231
+Confusion Matrix:
+[[468  50]
+ [161  30]]
+Filtered Accuracy (>=3 utterances): 0.7346437346437347
+Filtered Confusion Matrix (>=3 utterances):
+[[287  21]
+ [ 87  12]]
+Evaluating fold 3 for accuracy mode: high_acc
+Accuracy: 0.6412429378531074
+Confusion Matrix:
+[[429  77]
+ [177  25]]
+Filtered Accuracy (>=3 utterances): 0.6732186732186732
+Filtered Confusion Matrix (>=3 utterances):
+[[264  33]
+ [100  10]]
+Evaluating fold 4 for accuracy mode: high_acc
+Accuracy: 0.6624293785310734
+Confusion Matrix:
+[[426  87]
+ [152  43]]
+Filtered Accuracy (>=3 utterances): 0.6805896805896806
+Filtered Confusion Matrix (>=3 utterances):
+[[257  43]
+ [ 87  20]]
+Evaluating fold 5 for accuracy mode: high_acc
+Accuracy: 0.5734463276836158
+Confusion Matrix:
+[[329 186]
+ [116  77]]
+Filtered Accuracy (>=3 utterances): 0.5577395577395577
+Filtered Confusion Matrix (>=3 utterances):
+[[182 121]
+ [ 59  45]]

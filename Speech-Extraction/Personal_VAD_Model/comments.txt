@@ -1,0 +1,14 @@
+- For each speaker create .flac audio files:
+    - in project they have ca. 60 for each speaker
+    - should i differentiate one streamer in different streams?
+- For each created .flac file i need corresponding transcription and alignment:
+    - transcription is possible with Whisper AI
+    - alignments is list of every word and its end time:
+        - https://github.com/CorentinJ/librispeech-alignments
+        - empty words are used to represent silence
+
+
+- Where to look for the files?
+    - at the beginning they are not dead yet -> just streamer
+    - in long movement phases?
+    - detect phases in which there is single speaker speech via pyannote?

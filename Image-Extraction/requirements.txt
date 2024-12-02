@@ -1,0 +1,8 @@
+numpy==1.23.1
+opencv_python==4.6.0.66
+pytesseract==0.3.9
+srt==3.5.2
+ffmpeg-python==0.2.0
+torch
+pandas
+openpyxl
